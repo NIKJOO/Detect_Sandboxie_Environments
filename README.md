@@ -1,4 +1,5 @@
 Detect Sandboxie Environment
-BY : Nima Nikjoo
+Compiler : Embarcadero® Delphi 10.2 
 
-30/09/2023
+
+
