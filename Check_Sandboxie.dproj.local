@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/17 01:21:41.000.142,=C:\Users\R00T\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/17 02:07:50.000.624,=C:\Users\R00T\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/11 20:28:19.000.161,=C:\Users\R00T\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/30 00:32:15.836,=C:\Users\R00T\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/30 00:41:28.838,C:\Users\R00T\Desktop\New folder\Unit1.pas=C:\Users\R00T\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/30 00:41:28.838,C:\Users\R00T\Desktop\New folder\Unit1.dfm=C:\Users\R00T\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/30 00:41:30.429,C:\Users\R00T\Desktop\New folder\Project1.dproj=C:\Users\R00T\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/09/30 00:55:55.704,C:\Users\R00T\Desktop\New folder\Check_Sandboxie.dproj=C:\Users\R00T\Desktop\New folder\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
